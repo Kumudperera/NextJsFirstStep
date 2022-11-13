@@ -1,5 +1,5 @@
 /node_modules
 .githubPersonalToken.txt
 package-lock.json
-
+/.next
 
